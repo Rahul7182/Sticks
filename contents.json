@@ -1,0 +1,1831 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.lowpow.tamiltrollstickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "vadivelu",
+      "name": "VadiVelu ",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_vadivelu.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "vadivelu_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "vadivelu_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "vadivelu_3.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "vadivelu_4.webp",
+          "emojis": ["😩", "😰"]
+        },
+        {
+          "image_file": "vadivelu_5.webp",
+          "emojis": ["😭", "💧"]
+        },
+        {
+          "image_file": "vadivelu_6.webp",
+          "emojis": ["😍", "♥"]
+        },
+        {
+          "image_file": "vadivelu_7.webp",
+          "emojis": ["💔", "👎"]
+        },
+        {
+          "image_file": "vadivelu_8.webp",
+          "emojis": ["😍", "💑"]
+        },
+        {
+          "image_file": "vadivelu_9.webp",
+          "emojis": ["😘", "🍪"]
+        },
+        {
+          "image_file": "vadivelu_10.webp",
+          "emojis": ["🤔", "😐"]
+        },
+        {
+          "image_file": "vadivelu_11.webp",
+          "emojis": ["😱", "😵"]
+        },
+        {
+          "image_file": "vadivelu_12.webp",
+          "emojis": ["😡", "😠"]
+        },
+        {
+          "image_file": "vadivelu_13.webp",
+          "emojis": ["❓", "🤔"]
+        },
+        {
+          "image_file": "vadivelu_14.webp",
+          "emojis": ["🌈", "😜"]
+        },
+        {
+          "image_file": "vadivelu_15.webp",
+          "emojis": ["💻", "😩"]
+        },
+        {
+          "image_file": "vadivelu_16.webp",
+          "emojis": ["😡", "😤"]
+        },
+        {
+          "image_file": "vadivelu_17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "vadivelu_18.webp",
+          "emojis": ["💻", "🌃"]
+        },
+        {
+          "image_file": "vadivelu_19.webp",
+          "emojis": ["🎉", "✨"]
+        },
+        {
+          "image_file": "vadivelu_20.webp",
+          "emojis": ["🤮", "👎"]
+        },
+        {
+          "image_file": "vadivelu_21.webp",
+          "emojis": ["🖐", "🙋"]
+        },
+        {
+          "image_file": "vadivelu_22.webp",
+          "emojis": ["🖐", "👋"]
+        },
+        {
+          "image_file": "vadivelu_23.webp",
+          "emojis": ["🍵", "😌"]
+        },
+        {
+          "image_file": "vadivelu_24.webp",
+          "emojis": ["📱", "😦"]
+        },
+        {
+          "image_file": "vadivelu_25.webp",
+          "emojis": ["🔋", "😵"]
+        },
+        {
+          "image_file": "vadivelu_26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu_27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu_28.webp",
+          "emojis":[]
+        },
+        {
+          "image_file": "vadivelu_29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu_30.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "vadivelu2.0",
+      "name": "Vadivelu 2.0 ",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_vadivelu2.0.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "vadivelu2_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_28.webp",
+          "emojis":[]
+        },
+        {
+          "image_file": "vadivelu2_29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu2_30.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "vadivelu3.0",
+      "name": "Vadivelu 3.0",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_vadivelu_3.0.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "vadivelu3_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_28.webp",
+          "emojis":[]
+        },
+        {
+          "image_file": "vadivelu3_29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu3_30.webp",
+          "emojis": []
+        }
+      ]
+    },
+	 {
+      "identifier": "vadivelu4.0",
+      "name": "Vadivelu 4.0 ",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_vadivelu4.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "vadivelu4_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vadivelu4_16.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "Trending2020",
+      "name": "Trending2020",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_2020.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "trending2001.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2002.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2003.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2004.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2005.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2006.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2007.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2008.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2009.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2010.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2011.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2012.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2013.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2014.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2015.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2016.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2017.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2018.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "trending2019.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "RandomShits",
+      "name": "RandomShits",
+      "publisher": "LowPow",
+      "tray_image_file": "randomshits_tray.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "randomshits01.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits02.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits03.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits04.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits05.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits06.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits07.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits08.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits09.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits28.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "randomshits30.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "Meme",
+      "name": "Meme_Templates",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_memes.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "meme_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "meme_13.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "Heart",
+      "name": "Heart",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_heart.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Heart_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Heart_25.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "Trick",
+      "name": "Trick",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_trick.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Trick_01.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_02.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_03.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_04.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_05.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_06.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_07.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_08.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_09.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Trick_21.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "Emoji",
+      "name": "Emoji",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_emoji.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "emoji1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji28.webp",
+          "emojis":[]
+        },
+        {
+          "image_file": "emoji29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "emoji30.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "Relevant",
+      "name": "Relevant",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_relevant.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Relevant_01.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_02.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_03.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_04.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_05.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_06.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_07.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_08.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_09.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Relevant_22.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "santhanam",
+      "name": "Santhanam",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_santhanam.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "santhanam_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "santhanam_24.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "psycho",
+      "name": "Psycho",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_psycho.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "psycho_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "psycho_16.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "youtubers",
+      "name": "YouTubers",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_youtubers.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "youtube1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "youtube17.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "goundamani senthil",
+      "name": "Goundamani Senthil",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_gowndamani.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "GS_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_10.webp",
+          "emojis": []
+        },
+		{
+          "image_file": "GS_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GS_20.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "Soori",
+      "name": "Soori",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_soori.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "soori_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "soori_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "soori_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "soori_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "soori_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "soori_6.webp",
+          "emojis": []
+        },
+		 {
+          "image_file": "soori_7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "soori_8.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "vijayakanth",
+      "name": "Vijayakanth ",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_vijayakanth.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "vijayakanth_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vijayakanth_16.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "Actress",
+      "name": "Actress",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_actress.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Actress1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Actress25.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "vivek",
+      "name": "Vivek",
+      "publisher": "LowPow",
+      "tray_image_file": "tray_vivek.png",
+      "publisher_email": "tamilstickers@lowpow.dev",
+      "publisher_website": "https://t.me/LowPowDev",
+      "privacy_policy_website": "https://lowpow.dev/privacy/ts/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "vivek_1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vivek_2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vivek_3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vivek_4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vivek_5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vivek_6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "vivek_7.webp",
+          "emojis": []
+        }
+      ]
+    }
+  ]
+}
+
