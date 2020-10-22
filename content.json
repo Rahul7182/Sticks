@@ -12,15 +12,59 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/1.png",
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
           "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/2.png",
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/DopeWalls_v162_03_thub.png",
           "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/2.png",
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/test.png",
           "emojis": ["ðŸ™‚"]
         }
       ]
@@ -28,6 +72,30 @@
     {
       "identifier": "2",
       "name": "Emoji 2",
+      "publisher": "Lugar",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/DopeWalls_v162_03_thub.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/DopeWalls_v162_03_thub.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/Rahul7182/Sticks/main/DopeWalls_v162_03_thub.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Test",
       "publisher": "Lugar",
       "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
       "publisher_email":"viztushar@gmail.com",
